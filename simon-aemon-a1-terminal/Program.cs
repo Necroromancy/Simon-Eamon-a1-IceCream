@@ -50,21 +50,20 @@ else if (sauceip == "Hot Fudge")
     Console.WriteLine(flavour + " with " + sauce + " sauce. And did you want sprinkles");
 }
 
-
+ 
 Console.WriteLine(" sprinkles. Yes? or No?");
-bool sprinkleip =
-bool sprinkleip;
-if (bool sprinkleip = "no") ;
+//bool sprinkleip =
+//bool sprinkleip;
+//if (bool sprinkleip = "no") ;
 //bool myBool = bool.Parse(sprinkle);
 
-{
-    Console.WriteLine("chocolate, rainbow or Fruity sprinkles?");
+ Console.WriteLine("chocolate, rainbow or Fruity sprinkles?");
 
 
-}
 
-else if (sprinkleip = "yes") ;
-Console.WriteLine("Your total is 650gp");
+
+//else if (sprinkleip = "yes") ;
+//Console.WriteLine("Your total is 650gp");
 
 //Console.WriteLine("");
 //int Chocolate = 1;
